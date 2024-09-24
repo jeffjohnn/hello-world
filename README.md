@@ -1,2 +1,2 @@
 # My first repo
-This is my first rep, that's why I called it "Hello World!"
+This is my first repo, that's why I've called this repo "Hello World"!
